@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>robert-bye-tG36rvCeqng-unsplash.jpg</filename>
+	<path>E:\my_project\YOLO\images\robert-bye-tG36rvCeqng-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4440</width>
+		<height>2960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>560</xmin>
+			<ymin>730</ymin>
+			<xmax>3755</xmax>
+			<ymax>2800</ymax>
+		</bndbox>
+	</object>
+</annotation>

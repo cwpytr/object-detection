@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>tyler-clemmensen-d1Jum1vVLew-unsplash.jpg</filename>
+	<path>E:\my_project\YOLO\images\tyler-clemmensen-d1Jum1vVLew-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6016</width>
+		<height>4016</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1214</xmin>
+			<ymin>1560</ymin>
+			<xmax>4881</xmax>
+			<ymax>2807</ymax>
+		</bndbox>
+	</object>
+</annotation>

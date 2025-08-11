@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>sarah-dorweiler-7tFlUFGa7Dk-unsplash.jpg</filename>
+	<path>E:\my_project\YOLO\images\sarah-dorweiler-7tFlUFGa7Dk-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2309</width>
+		<height>3200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1123</xmin>
+			<ymin>1494</ymin>
+			<xmax>2138</xmax>
+			<ymax>3194</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>reet-talreja-hSqGdDsr7gA-unsplash.jpg</filename>
+	<path>E:\my_project\YOLO\images\reet-talreja-hSqGdDsr7gA-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2848</width>
+		<height>4288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>673</xmin>
+			<ymin>1744</ymin>
+			<xmax>2452</xmax>
+			<ymax>2530</ymax>
+		</bndbox>
+	</object>
+</annotation>

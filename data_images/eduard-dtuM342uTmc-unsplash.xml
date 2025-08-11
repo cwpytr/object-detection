@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>eduard-dtuM342uTmc-unsplash.jpg</filename>
+	<path>E:\my_project\YOLO\images\eduard-dtuM342uTmc-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4213</width>
+		<height>2370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sofa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1625</xmin>
+			<ymin>1084</ymin>
+			<xmax>2601</xmax>
+			<ymax>2251</ymax>
+		</bndbox>
+	</object>
+</annotation>

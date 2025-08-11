@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>sven-d-a4S6KUuLeoM-unsplash.jpg</filename>
+	<path>E:\my_project\YOLO\images\sven-d-a4S6KUuLeoM-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3000</xmin>
+			<ymin>2093</ymin>
+			<xmax>5273</xmax>
+			<ymax>3459</ymax>
+		</bndbox>
+	</object>
+</annotation>

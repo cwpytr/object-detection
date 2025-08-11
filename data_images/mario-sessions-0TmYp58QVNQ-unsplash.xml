@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>mario-sessions-0TmYp58QVNQ-unsplash.jpg</filename>
+	<path>E:\my_project\YOLO\images\mario-sessions-0TmYp58QVNQ-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6016</width>
+		<height>4016</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>667</xmin>
+			<ymin>1574</ymin>
+			<xmax>5647</xmax>
+			<ymax>2894</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>kam-idris-_HqHX3LBN18-unsplash.jpg</filename>
+	<path>E:\my_project\YOLO\images\kam-idris-_HqHX3LBN18-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3400</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sofa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1150</xmin>
+			<ymin>1475</ymin>
+			<xmax>2235</xmax>
+			<ymax>2495</ymax>
+		</bndbox>
+	</object>
+</annotation>
