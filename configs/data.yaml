@@ -1,0 +1,13 @@
+path: E:\my_project\Object Detection\data
+train: E:\my_project\Object Detection\data\images\train
+val: E:\my_project\Object Detection\data\images\val
+test: ''
+names:
+- person
+- car
+- bicycle
+- airplane
+- dog
+- chair
+- bus
+nc: 7

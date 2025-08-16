@@ -1,0 +1,7 @@
+person
+car
+bicycle
+airplane
+dog
+chair
+bus
